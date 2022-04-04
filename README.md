@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaniGarces
 - 👀 I’m interested in data science, AI and machine learning.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any proyect focused on my interest
+- 🌱 I’m currently learning Python and Machine Learning.
+- 💞️ I’m looking to collaborate on any proyect focused on my interest.
 - 📫 How to reach me: nanigarces@gmail.com
 
 <!---
